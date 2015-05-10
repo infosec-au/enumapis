@@ -10,7 +10,11 @@ Because I've owned shit via very obscure APIs and endpoints. This tool doesn't j
 
 ###Usage
 
-./enumapis.py -u https://shubh.am -o shubham_endpoints.txt -v
+Single Page:
+`./enumapis.py -u https://shubh.am -o shubham_endpoints.txt -v`
+
+Multiple Pages:
+`./enumapis.py -l shubs.txt -o shubham_endpoints.txt -v`
 
 ###Remarks
 
