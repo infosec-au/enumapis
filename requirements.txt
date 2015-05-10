@@ -1,0 +1,4 @@
+colorama
+bs4
+argparse
+requests
