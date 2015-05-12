@@ -14,7 +14,7 @@ Most web applications use Javascript in order to perform client-side logic. A ve
 
 ###Why?
 
-Because I've owned shit via very obscure APIs and endpoints. This tool doesn't just do a mass regex search through Javascript files, but rather also performs intelligent enumeration. For example, a blacklist is applied for all common Javascript files (JQuery, AngularJS, KnockoutJS and more). Sometimes, there may even be endpoints in modified JQuery files.... would you have found that in a pentest?
+Because I've owned shit via very obscure APIs and endpoints. This tool doesn't just do a mass regex search through Javascript files, but rather also performs intelligent enumeration. For example, a blacklist is applied for all common Javascript files (JQuery, AngularJS, KnockoutJS and more). Sometimes, there may even be endpoints in modified JQuery files.... would you have found that in a pentest? (WORK IN PROGRESS)
 
 ###How?
 
