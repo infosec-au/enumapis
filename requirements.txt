@@ -1,4 +1,4 @@
 colorama
-bs4
+BeautifulSoup4
 argparse
 requests
